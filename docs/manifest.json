@@ -1,0 +1,2729 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/DNN.IonicToDo/DNN.IonicToDo/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.Common.Globals.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.Common.Globals.html",
+          "hash": "v7KgFw7rLaeKwyLatrHPNQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.Common.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.Common.html",
+          "hash": "PZBlkSPTUAK0xIeYOw3P3Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.Controllers.ItemController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.Controllers.ItemController.html",
+          "hash": "3pWazeavtkuYLCn5iNI7Rw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.Controllers.LocalizationController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.Controllers.LocalizationController.html",
+          "hash": "XPQ8Hg8xLw54qMZW1h3mnA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.Controllers.ModuleApiController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.Controllers.ModuleApiController.html",
+          "hash": "Stt5POnoU+R8pQhXVUVnFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.Controllers.ServiceRouteMapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.Controllers.ServiceRouteMapper.html",
+          "hash": "9qgCdGZANHBrIsUApjitzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.Controllers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.Controllers.html",
+          "hash": "yLtY3sQX0dzZ2mmC4I58fw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.DTO.CreateItemDTO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.DTO.CreateItemDTO.html",
+          "hash": "Xml8lyCPF1vdxEpC4DPh0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.DTO.GetItemsPageDTO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.DTO.GetItemsPageDTO.html",
+          "hash": "Sbbssboi6WVlxTfdO0l4wA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.DTO.UpdateItemDTO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.DTO.UpdateItemDTO.html",
+          "hash": "ce1TYIPrs6l46x5HQeygBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.DTO.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.DTO.html",
+          "hash": "OJKl9gfoZnSDMYK9JL1Idw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.Data.Entities.BaseEntity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.Data.Entities.BaseEntity.html",
+          "hash": "xcB+gHnhaWsVuxSnB6TDww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.Data.Entities.IEntity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.Data.Entities.IEntity.html",
+          "hash": "Ufczna1sQZ/K46YO1cCjBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.Data.Entities.Item.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.Data.Entities.Item.html",
+          "hash": "weB1c5gCHoO4/a1trDJRAg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.Data.Entities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.Data.Entities.html",
+          "hash": "l+ixcrM3fimMjo3wfmFnNw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.Data.ModuleDbContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.Data.ModuleDbContext.html",
+          "hash": "W4LSMJvWq8y+6RqJIOaq2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.Data.Repositories.IRepository-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.Data.Repositories.IRepository-1.html",
+          "hash": "XZLXb76d03k3wsA81Qid1w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.Data.Repositories.Repository-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.Data.Repositories.Repository-1.html",
+          "hash": "+MaG5tP5oJnGfZ/rynCwFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.Data.Repositories.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.Data.Repositories.html",
+          "hash": "DvQuqO9+0F+oWo8y96XzNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.Data.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.Data.html",
+          "hash": "O0KBeGl9HI71WG3MJz8MEw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.Services.IItemService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.Services.IItemService.html",
+          "hash": "g0b1XDagk2cr0o6X4485iw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.Services.ILocalizationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.Services.ILocalizationService.html",
+          "hash": "46UEpiwhafBlVIFVDSz5BA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.Services.ItemService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.Services.ItemService.html",
+          "hash": "U/Sp9j9QoD6B54u+Ro670A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.Services.LocalizationService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.Services.LocalizationService.html",
+          "hash": "pW91cbNAHL3Xo48Qu9cTWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.Services.html",
+          "hash": "1FJaYTyKNq3hROiKrcUidA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.Startup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.Startup.html",
+          "hash": "tV4M8+cFdEV60ZC4wjPyfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.ViewModels.ItemViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.ViewModels.ItemViewModel.html",
+          "hash": "WIksuFbPP/WgDlbcMA3h6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.ViewModels.ItemsPageViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.ViewModels.ItemsPageViewModel.html",
+          "hash": "UloOlEeb81KvxXR9NGuzWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.ViewModels.LocalizationViewModel.ModelValidationInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.ViewModels.LocalizationViewModel.ModelValidationInfo.html",
+          "hash": "2GMD90at5XG39yvYF/VrzQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.ViewModels.LocalizationViewModel.UIInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.ViewModels.LocalizationViewModel.UIInfo.html",
+          "hash": "cvAKBMoLIgfrDseks5QJiw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.ViewModels.LocalizationViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.ViewModels.LocalizationViewModel.html",
+          "hash": "Wkjj5xkd44EdGSx6wFN49w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.ViewModels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.ViewModels.html",
+          "hash": "tC1zVcMqfpFnoc4vtie6kg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DNNDave.Modules.IonicToDo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DNNDave.Modules.IonicToDo.html",
+          "hash": "YRfmWCOMbL0UC6nVX6Aoiw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "lrpKAvPz5/lkQp15xBzXng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "UidNotFound"
+      ],
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "SelH50DFDLS7vol6ZhXV5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "articles/git.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/git.html",
+          "hash": "+GnGbLMGkUs9am40UbD8fg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "/jnTA1T0XBHV2KPmikIdWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/project-architecture.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/project-architecture.html",
+          "hash": "gppiDlQlEutJqeYmL8UmDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "E2zehL9R44b3qURfeD5rTA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/index.html",
+          "hash": "CDFK8HTZnTDdHWO5UJCfxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.apiexception._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.apiexception._constructor_.html",
+          "hash": "IRroNiS++2DTRFPlUzdu8g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.apiexception.headers.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.apiexception.headers.html",
+          "hash": "UJHngQFTEmukKDxincqBWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.apiexception.isapiexception.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.apiexception.isapiexception.html",
+          "hash": "pdBe2UAiBn4GuuM6yjKkhw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.apiexception.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.apiexception.html",
+          "hash": "0kafsAJSvYEAl3K/Euy0RQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.apiexception.message.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.apiexception.message.html",
+          "hash": "iLubGmWrIt5SYUhci5WRvQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.apiexception.response.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.apiexception.response.html",
+          "hash": "nBxhpF6itJxjofFCskAf+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.apiexception.result.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.apiexception.result.html",
+          "hash": "Lyb07Owx1XzIMpX9yemA0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.apiexception.status.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.apiexception.status.html",
+          "hash": "qvwuwQmivHxC7E8OJws+fA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.argumentexception._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.argumentexception._constructor_.html",
+          "hash": "rXWYQly0ZkAiG6kgxFsveg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.argumentexception.fromjs.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.argumentexception.fromjs.html",
+          "hash": "+4sTI49IYs2xr422blhbaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.argumentexception.init.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.argumentexception.init.html",
+          "hash": "Utj4X0DOBxNxRr8yDlDg4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.argumentexception.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.argumentexception.html",
+          "hash": "hesjMuuSQOgBcGFmhnrurA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.argumentexception.message.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.argumentexception.message.html",
+          "hash": "u3P4ytg+ZV85zclgWF+o2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.argumentexception.paramname.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.argumentexception.paramname.html",
+          "hash": "KAL3xTeZtvP1Og6LniWeiQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.argumentexception.tojson.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.argumentexception.tojson.html",
+          "hash": "4RkHy2VNt7lZycaQIkjRlw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.clientbase._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.clientbase._constructor_.html",
+          "hash": "ZF203G0b2UeW1tvCy4iZfg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.clientbase.getbaseurl.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.clientbase.getbaseurl.html",
+          "hash": "U2sOTAamTkWY0JdMlD+mXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.clientbase.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.clientbase.html",
+          "hash": "YjYiDLD9+MNGLKKuYzb8lw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.clientbase.transformoptions.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.clientbase.transformoptions.html",
+          "hash": "8jIGEXFcmGG0xZB4wacoLA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.configurerequest.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.configurerequest.html",
+          "hash": "AjkSFge1ATit07eC+oCulg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.configurerequest.moduleid.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.configurerequest.moduleid.html",
+          "hash": "AOFAb0srBPz4OXyx9crYpQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.createitemdto._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.createitemdto._constructor_.html",
+          "hash": "JeO9uZ0oPeGPJtBYd4/Glw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.createitemdto.description.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.createitemdto.description.html",
+          "hash": "T9c3zDLSThx1L11QQzvjSw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.createitemdto.fromjs.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.createitemdto.fromjs.html",
+          "hash": "PdEKNsAUvkhxluhiEIzFaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.createitemdto.init.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.createitemdto.init.html",
+          "hash": "03K2yrmS6CHY1uhEM+wMpA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.createitemdto.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.createitemdto.html",
+          "hash": "m85ZRnTG+WXqUX++3q+TdQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.createitemdto.name.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.createitemdto.name.html",
+          "hash": "Q4657n1JzzQ68F8yBY7FaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.createitemdto.tojson.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.createitemdto.tojson.html",
+          "hash": "BT/V45XMOqP404Yu0aOybw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.exception._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.exception._constructor_.html",
+          "hash": "onfjPHCFsS9Q0hJNzGgVCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.exception.fromjs.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.exception.fromjs.html",
+          "hash": "z3jy054wyd+7u9yO8+ulqQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.exception.init.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.exception.init.html",
+          "hash": "Ph5DbYiTFLkIXpjL0e9nbg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.exception.innerexception.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.exception.innerexception.html",
+          "hash": "0pWaq6DCPAg8YrqAIK/icQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.exception.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.exception.html",
+          "hash": "wc49rJx5bk1zPYmaNMd6/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.exception.message.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.exception.message.html",
+          "hash": "+AF1SkH4ng45IdK6Go9YSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.exception.source.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.exception.source.html",
+          "hash": "SgKzEmH0yni6crija4zTAQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.exception.stacktrace.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.exception.stacktrace.html",
+          "hash": "h61tNE2YYgbuQgiFwvzkGw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.exception.tojson.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.exception.tojson.html",
+          "hash": "2TcqB5t6sv35XkCrP6HXAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iargumentexception.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iargumentexception.html",
+          "hash": "bbtAX84d2doMd7G2wU/FKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iargumentexception.message.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iargumentexception.message.html",
+          "hash": "vt9WuZYURKmmcbuOvOg+fw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iargumentexception.paramname.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iargumentexception.paramname.html",
+          "hash": "uG5J+eCQ+l1QGRzQ2HAgvA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.icreateitemdto.description.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.icreateitemdto.description.html",
+          "hash": "z2qbdZKfVQS3TVClO3Emhg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.icreateitemdto.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.icreateitemdto.html",
+          "hash": "IkeNFPHo6TJVb2O3+tEhhw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.icreateitemdto.name.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.icreateitemdto.name.html",
+          "hash": "yt7aObTi7aXofOn0rA9O6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iexception.innerexception.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iexception.innerexception.html",
+          "hash": "AXAOqeFt3KON1G9O6u26lg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iexception.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iexception.html",
+          "hash": "xEvG1ijt0WYgBL1rjGWr4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iexception.message.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iexception.message.html",
+          "hash": "EviUYiB02AL6iAlzPc5MFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iexception.source.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iexception.source.html",
+          "hash": "zuKu+WsWwt1yA294QHlIzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iexception.stacktrace.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iexception.stacktrace.html",
+          "hash": "UDMowCo7sMJe3d/zR6nbhw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iitemspageviewmodel.items.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iitemspageviewmodel.items.html",
+          "hash": "2BVjskATwfFaAP2nAmEjag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iitemspageviewmodel.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iitemspageviewmodel.html",
+          "hash": "DJqTy7+EQvygPYjNIP57Xg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iitemspageviewmodel.page.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iitemspageviewmodel.page.html",
+          "hash": "dUc2qHeQTjVecNBHJki4Xw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iitemspageviewmodel.pagecount.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iitemspageviewmodel.pagecount.html",
+          "hash": "rt7z8JeMUKCXHOXYBJFvWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iitemspageviewmodel.resultcount.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iitemspageviewmodel.resultcount.html",
+          "hash": "NXYqBhU/b4vp9TDZ5pj2Mg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iitemviewmodel.description.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iitemviewmodel.description.html",
+          "hash": "HlFksfpXvRbzRLdBz6TZ5w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iitemviewmodel.id.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iitemviewmodel.id.html",
+          "hash": "pFHS/Km2bNqicq4qLRQ6uw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iitemviewmodel.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iitemviewmodel.html",
+          "hash": "7SsVSg3Tn3o1KFdZfBolbA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iitemviewmodel.name.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iitemviewmodel.name.html",
+          "hash": "H/0X9ytCGOmYCqgNahBWjA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.ilocalizationviewmodel.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.ilocalizationviewmodel.html",
+          "hash": "97DoHsIwbC0lFyUWLHjDfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.ilocalizationviewmodel.modelvalidation.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.ilocalizationviewmodel.modelvalidation.html",
+          "hash": "MomO8j2drIcRzj8a39VEXQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.ilocalizationviewmodel.ui.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.ilocalizationviewmodel.ui.html",
+          "hash": "AriawInLENfYSMlPkZ7QYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.imodelvalidationinfo.idgreaterthanzero.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.imodelvalidationinfo.idgreaterthanzero.html",
+          "hash": "/8ROppLZ9erD6e9DvtUUmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.imodelvalidationinfo.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.imodelvalidationinfo.html",
+          "hash": "FIkQy9RGsi+oenCb3mePBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.imodelvalidationinfo.namerequired.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.imodelvalidationinfo.namerequired.html",
+          "hash": "8O0deSIHowA2sGzaisbKXA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.isystemexception.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.isystemexception.html",
+          "hash": "ZARlkAW7tIiehCjMVqPjVA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemclient._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemclient._constructor_.html",
+          "hash": "GjKrzLUJYdTP2NXvQiN1lg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemclient.createitem.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemclient.createitem.html",
+          "hash": "ahIt0oWC/agyrRIKrN0Hxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemclient.deleteitem.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemclient.deleteitem.html",
+          "hash": "qfPSVPiyQ/43zIkMk48vjw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemclient.getitemspage.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemclient.getitemspage.html",
+          "hash": "BBrMwa5ZHTqsL7ZI2MOTxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemclient.jsonparsereviver.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemclient.jsonparsereviver.html",
+          "hash": "nhugSh9wXEt01vVnxs+5MQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemclient.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemclient.html",
+          "hash": "uay3Ed1pkQdJJgrDTbcTrw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemclient.processcreateitem.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemclient.processcreateitem.html",
+          "hash": "6Xy76xb46eiLEoqpbpR/vQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemclient.processdeleteitem.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemclient.processdeleteitem.html",
+          "hash": "y86qbL2YoamyuxipSoVnpQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemclient.processgetitemspage.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemclient.processgetitemspage.html",
+          "hash": "QutzBC6dLHHYFbWvFd2FDQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemclient.processupdateitem.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemclient.processupdateitem.html",
+          "hash": "8JyMqUtVsiLmkQfXPRyA0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemclient.processusercanedit.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemclient.processusercanedit.html",
+          "hash": "eLCc7M2N+CkhDFGp73j4Kg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemclient.updateitem.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemclient.updateitem.html",
+          "hash": "R7zRNJ6hNf3STaP0eZhrrg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemclient.usercanedit.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemclient.usercanedit.html",
+          "hash": "4Lp5gKlb2gWX9EPrhRsCDQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemspageviewmodel._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemspageviewmodel._constructor_.html",
+          "hash": "D4U40UxM3nH4jofnGZaVSQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemspageviewmodel.fromjs.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemspageviewmodel.fromjs.html",
+          "hash": "gsNo46FKofmx+BDuEbHFVw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemspageviewmodel.init.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemspageviewmodel.init.html",
+          "hash": "94DTISrukKeFvQ8AK5AWOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemspageviewmodel.items.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemspageviewmodel.items.html",
+          "hash": "Qb9Zs12q5Fd2M8yfwJ9NkQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemspageviewmodel.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemspageviewmodel.html",
+          "hash": "CG2pidmGiubHT3uHOJVdvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemspageviewmodel.page.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemspageviewmodel.page.html",
+          "hash": "OCT6jSGvSZdn/+udRFiUaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemspageviewmodel.pagecount.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemspageviewmodel.pagecount.html",
+          "hash": "I5TOE9Zm1QDGGhjzn7GqnA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemspageviewmodel.resultcount.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemspageviewmodel.resultcount.html",
+          "hash": "hkBmXUYHAevLDIRRXjSCnA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemspageviewmodel.tojson.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemspageviewmodel.tojson.html",
+          "hash": "HQ+Q6kCE/uxa+Xda1EV3ZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemviewmodel._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemviewmodel._constructor_.html",
+          "hash": "3TAhG7282GdT+EPAwIQDLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemviewmodel.description.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemviewmodel.description.html",
+          "hash": "skOZboMroBvfuRwn6Ca+NA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemviewmodel.fromjs.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemviewmodel.fromjs.html",
+          "hash": "OqmFj/kaxCDDC3XtTES5kw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemviewmodel.id.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemviewmodel.id.html",
+          "hash": "LygbWVKj1vBGd1esAv1Tyw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemviewmodel.init.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemviewmodel.init.html",
+          "hash": "EWM3Pqu2oejVsSR51wiZUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemviewmodel.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemviewmodel.html",
+          "hash": "+yBmkwevqKbjPTc9838z3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemviewmodel.name.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemviewmodel.name.html",
+          "hash": "1f2+O4KHU+u/i6iwvBI7QA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.itemviewmodel.tojson.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.itemviewmodel.tojson.html",
+          "hash": "6E5pvIq9UaLCPd9r/zf1XA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iuiinfo.additem.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iuiinfo.additem.html",
+          "hash": "uSLrOHAtnpNBPTxPPpiXqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iuiinfo.cancel.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iuiinfo.cancel.html",
+          "hash": "CjY0v9ur19GP1UanCH2I9A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iuiinfo.create.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iuiinfo.create.html",
+          "hash": "bB1XLT3NNJdSkoLQp8TrkA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iuiinfo.delete.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iuiinfo.delete.html",
+          "hash": "b5yNrz2buV4uTbG01xeNEA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iuiinfo.deleteitemconfirm.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iuiinfo.deleteitemconfirm.html",
+          "hash": "JqGKQuGsWJk1zHUDwxc75A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iuiinfo.description.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iuiinfo.description.html",
+          "hash": "9Epgld9Bp8Qdt9Awe99KHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iuiinfo.edit.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iuiinfo.edit.html",
+          "hash": "rjcKKbUQIYPJNSAAWD1dPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iuiinfo.loadmore.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iuiinfo.loadmore.html",
+          "hash": "UsrGA94VMZbMHaRzhq2Wjw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iuiinfo.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iuiinfo.html",
+          "hash": "VJe7Ns4qrCqqZ8VcrjYraw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iuiinfo.name.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iuiinfo.name.html",
+          "hash": "iP1/ArKbyeq5TnhWSVdnMg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iuiinfo.no.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iuiinfo.no.html",
+          "hash": "AdfzTTYk4alBAO0UCSK4tg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iuiinfo.save.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iuiinfo.save.html",
+          "hash": "bo+0pD8EvwRCUkq/jM/HeQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iuiinfo.searchplaceholder.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iuiinfo.searchplaceholder.html",
+          "hash": "1G2EhD+ySHs3nvbkUm6Ybg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iuiinfo.shownitems.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iuiinfo.shownitems.html",
+          "hash": "HEHKBNgNTvVWyRiGuuABjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iuiinfo.yes.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iuiinfo.yes.html",
+          "hash": "YmUBRojI7d25mxtQjVZCSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iupdateitemdto.id.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iupdateitemdto.id.html",
+          "hash": "hbmt5N7T4PH9iy9ZMAOrDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.iupdateitemdto.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.iupdateitemdto.html",
+          "hash": "IXrPYnUNX9QLXawWTP26PA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.localizationclient._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.localizationclient._constructor_.html",
+          "hash": "r9Vf9p2nb33UHjj3cfYpww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.localizationclient.getlocalization.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.localizationclient.getlocalization.html",
+          "hash": "lSeLMBgILoaO4JQuzGxkaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.localizationclient.jsonparsereviver.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.localizationclient.jsonparsereviver.html",
+          "hash": "yj20LJYvx+jNm2qBQglALg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.localizationclient.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.localizationclient.html",
+          "hash": "KimLcrFKXaB9REsN79VZAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.localizationclient.processgetlocalization.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.localizationclient.processgetlocalization.html",
+          "hash": "etAfgVO1ajyx20Msy2LqAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.localizationviewmodel._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.localizationviewmodel._constructor_.html",
+          "hash": "9hNWFxxqGSWSuE2EgAo3Ow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.localizationviewmodel.fromjs.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.localizationviewmodel.fromjs.html",
+          "hash": "i/xKlwPi7Q7Kq9eSChQRAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.localizationviewmodel.init.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.localizationviewmodel.init.html",
+          "hash": "xQXNKkwYk8vQN3ksf4cmrA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.localizationviewmodel.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.localizationviewmodel.html",
+          "hash": "Pip7ohhWQC22BO+PvC2j8Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.localizationviewmodel.modelvalidation.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.localizationviewmodel.modelvalidation.html",
+          "hash": "DPS13r+sbsE3V7z2gPc3Ug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.localizationviewmodel.tojson.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.localizationviewmodel.tojson.html",
+          "hash": "wIMEhGIDLMnCYaCUDo53Zw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.localizationviewmodel.ui.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.localizationviewmodel.ui.html",
+          "hash": "e8xp/JD0/hY+irpQ3Q21HQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.html",
+          "hash": "K5WPYJ9s7n8NOvfdHU256g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.modelvalidationinfo._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.modelvalidationinfo._constructor_.html",
+          "hash": "xzTRBloj9BCeV8sPHp3tqQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.modelvalidationinfo.fromjs.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.modelvalidationinfo.fromjs.html",
+          "hash": "vYQDM2FvugPq5utSQZiWmw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.modelvalidationinfo.idgreaterthanzero.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.modelvalidationinfo.idgreaterthanzero.html",
+          "hash": "VlyUXZuqQI/EFOl3k4bLmQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.modelvalidationinfo.init.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.modelvalidationinfo.init.html",
+          "hash": "U4Hn+kA1E8oMR90K9qsw0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.modelvalidationinfo.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.modelvalidationinfo.html",
+          "hash": "WGqfS8mmQd6wiEnHFi3oJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.modelvalidationinfo.namerequired.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.modelvalidationinfo.namerequired.html",
+          "hash": "2f9L+5Syfe3bv35JypIkpg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.modelvalidationinfo.tojson.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.modelvalidationinfo.tojson.html",
+          "hash": "TOND8uOyTPfVj0ssF4wDWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.systemexception._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.systemexception._constructor_.html",
+          "hash": "tthBtkZw7nOBhqY+6LV4YQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.systemexception.fromjs.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.systemexception.fromjs.html",
+          "hash": "WFth2EjlQ868Dh4yA1HvJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.systemexception.init.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.systemexception.init.html",
+          "hash": "Rejtm47Ellh8KoNHVLr+LA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.systemexception.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.systemexception.html",
+          "hash": "rORDjMtti3D1Oi2h2/E1FA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.systemexception.tojson.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.systemexception.tojson.html",
+          "hash": "hkm/NKSZfDJBP5SZF4YZyg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.uiinfo._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.uiinfo._constructor_.html",
+          "hash": "Jxlze/v2BJ2B9SzUkc+mfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.uiinfo.additem.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.uiinfo.additem.html",
+          "hash": "9hfmeicjNlBEW8xFFv7knw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.uiinfo.cancel.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.uiinfo.cancel.html",
+          "hash": "sC60znnqhBjAQ8LoGxyR5w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.uiinfo.create.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.uiinfo.create.html",
+          "hash": "5MSlR4aoAYNzNYZs74OZaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.uiinfo.delete.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.uiinfo.delete.html",
+          "hash": "ZRE/UgZRcROY1Q7HNch6tQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.uiinfo.deleteitemconfirm.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.uiinfo.deleteitemconfirm.html",
+          "hash": "tIm6z0c0tM7GPJNV3Mh9hg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.uiinfo.description.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.uiinfo.description.html",
+          "hash": "XLzy39QSi7qCAH0RSlUfew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.uiinfo.edit.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.uiinfo.edit.html",
+          "hash": "z9oNdtmLzrwjl3gb6XpX3w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.uiinfo.fromjs.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.uiinfo.fromjs.html",
+          "hash": "2l438k6bJTxLr/X5gWsLeg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.uiinfo.init.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.uiinfo.init.html",
+          "hash": "sD/1Fekazd9ed3EdXX9Cbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.uiinfo.loadmore.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.uiinfo.loadmore.html",
+          "hash": "9uvhY9mcdYznVopCMw5Ipw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.uiinfo.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.uiinfo.html",
+          "hash": "8l7K/+jS1OBagasTvGMtcA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.uiinfo.name.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.uiinfo.name.html",
+          "hash": "hIjbM4PFzVwMx5cQfaTamw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.uiinfo.no.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.uiinfo.no.html",
+          "hash": "9JH2v8tzYnVc2LgfH/6ptg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.uiinfo.save.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.uiinfo.save.html",
+          "hash": "9FS49BnaOEB0z6iAEdVcsw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.uiinfo.searchplaceholder.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.uiinfo.searchplaceholder.html",
+          "hash": "dr6ymzBagXfsTy/7tU029A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.uiinfo.shownitems.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.uiinfo.shownitems.html",
+          "hash": "IavuYmiBCzVF4heA251VzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.uiinfo.tojson.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.uiinfo.tojson.html",
+          "hash": "VYdK3UiIPX8TDIwpiLDIDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.uiinfo.yes.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.uiinfo.yes.html",
+          "hash": "lhJKjAlxdEN1AsgLYsW2Kg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.updateitemdto._constructor_.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.updateitemdto._constructor_.html",
+          "hash": "KriohwG6A3mMVO80M8E5Qw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.updateitemdto.fromjs.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.updateitemdto.fromjs.html",
+          "hash": "jW7t8o2Zl1zOO4dyMhx2DQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.updateitemdto.id.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.updateitemdto.id.html",
+          "hash": "eqxyafBDE2ZnASUgMLQTAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.updateitemdto.init.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.updateitemdto.init.html",
+          "hash": "rDYjGnF6CMwDYtSYdtjRMA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.updateitemdto.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.updateitemdto.html",
+          "hash": "94O5B3yOGb3PHOmo/p41dw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "client/ionictodo.updateitemdto.tojson.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/ionictodo.updateitemdto.tojson.html",
+          "hash": "kfyYH2h3h1rherLneGdn6g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "client/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "client/toc.html",
+          "hash": "W5Adjt0NJZE9Pnc2rASZjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "components/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "components/index.html",
+          "hash": "Z6L7t9/7zBE0qHQfV/yeEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "components/my-component.md",
+      "output": {
+        ".html": {
+          "relative_path": "components/my-component.html",
+          "hash": "2SQYMmBHhxmwAGHKDx9L2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "components/my-create.md",
+      "output": {
+        ".html": {
+          "relative_path": "components/my-create.html",
+          "hash": "Mc2hRk69Jl/RptbLVZVLHA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "components/my-edit.md",
+      "output": {
+        ".html": {
+          "relative_path": "components/my-edit.html",
+          "hash": "6OOzvscjyGcAF58CwVRSdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "components/my-item-details.md",
+      "output": {
+        ".html": {
+          "relative_path": "components/my-item-details.html",
+          "hash": "T6XiQB4x9MEK4lrzrKbtxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "components/my-items-list.md",
+      "output": {
+        ".html": {
+          "relative_path": "components/my-items-list.html",
+          "hash": "DlyfrQ3JWLgcRZ3hZ7rAlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "components/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "components/toc.html",
+          "hash": "cTtxrMM5YtDOIo1mlNjFkA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Package.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/Package.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/create-beta-release.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/create-beta-release.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/create-develop-branch.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/create-develop-branch.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/create-pull-request.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/create-pull-request.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/create-release.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/create-release.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/initial-commit.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/initial-commit.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/install-module.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/install-module.gif"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "GNpctE4xXmtKls9vq32Fbg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "rest/rest-api.md",
+      "output": {
+        ".html": {
+          "relative_path": "rest/rest-api.html",
+          "hash": "XvfWlCXV6ijWPePwhS9yqA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "rest/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "rest/toc.html",
+          "hash": "G9YMZ1tBN6dUh3wjAxz+lg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "vJDvCT6x/U2SiHeda+VXxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 174,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 33,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
