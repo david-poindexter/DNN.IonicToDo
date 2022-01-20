@@ -93,7 +93,7 @@ internal class Build : NukeBuild
     AbsolutePath DocsDirectory => RootDirectory / "docs";
 
     private const string devViewsPath = "http://localhost:3333/build/";
-    private const string prodViewsPath = "/DesktopModules/IonicToDo/resources/scripts/ionictodo/";
+    private const string prodViewsPath = "/DesktopModules/DNN.IonicToDo/resources/scripts/ionictodo/";
 
     string releaseNotes = "";
     GitHubClient gitHubClient;
