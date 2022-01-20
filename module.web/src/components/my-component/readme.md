@@ -54,34 +54,42 @@ Simply load the javascript library, provide it a module id and you are good to g
 
 ### Depends on
 
-- dnn-searchbox
+- ion-header
+- ion-toolbar
+- ion-title
+- ion-searchbar
 - [my-create](../my-create)
 - [my-items-list](../my-items-list)
 
 ### Graph
 ```mermaid
 graph TD;
-  my-component --> dnn-searchbox
+  my-component --> ion-header
+  my-component --> ion-toolbar
+  my-component --> ion-title
+  my-component --> ion-searchbar
   my-component --> my-create
   my-component --> my-items-list
+  ion-searchbar --> ion-icon
   my-create --> ion-fab
   my-create --> ion-fab-button
   my-create --> ion-icon
-  my-create --> ion-alert
   ion-fab-button --> ion-icon
   ion-fab-button --> ion-ripple-effect
-  ion-alert --> ion-ripple-effect
-  ion-alert --> ion-backdrop
-  my-items-list --> dnn-chevron
-  my-items-list --> dnn-collapsible
-  my-items-list --> my-item-details
+  my-items-list --> ion-list
+  my-items-list --> ion-item-sliding
+  my-items-list --> ion-item
+  my-items-list --> ion-label
+  my-items-list --> ion-checkbox
+  my-items-list --> ion-item-options
+  my-items-list --> ion-item-option
+  my-items-list --> ion-icon
   my-items-list --> dnn-button
-  my-item-details --> dnn-button
-  my-item-details --> dnn-modal
-  my-item-details --> my-edit
+  ion-item --> ion-icon
+  ion-item --> ion-ripple-effect
+  ion-item-option --> ion-ripple-effect
   dnn-button --> dnn-modal
   dnn-button --> dnn-button
-  my-edit --> dnn-button
   style my-component fill:#f9f,stroke:#333,stroke-width:4px
 ```
 

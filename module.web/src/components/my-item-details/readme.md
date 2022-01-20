@@ -14,10 +14,6 @@
 
 ## Dependencies
 
-### Used by
-
- - [my-items-list](../my-items-list)
-
 ### Depends on
 
 - dnn-button
@@ -33,7 +29,6 @@ graph TD;
   dnn-button --> dnn-modal
   dnn-button --> dnn-button
   my-edit --> dnn-button
-  my-items-list --> my-item-details
   style my-item-details fill:#f9f,stroke:#333,stroke-width:4px
 ```
 
