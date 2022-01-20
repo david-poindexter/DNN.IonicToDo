@@ -2,6 +2,7 @@ import { Debounce } from '@eraware/dnn-elements';
 import { Component, Host, h, State, Prop, Element } from '@stencil/core';
 import { ItemClient, UIInfo } from '../../services/services';
 import state, { localizationState } from '../../store/state';
+import '@ionic/core';
 
 @Component({
   tag: 'my-items-list',
@@ -109,33 +110,40 @@ export class MyItemsList {
     });
   }
 
+  private edit(e: any) {
+    console.log('Edit clicked', e);
+  }
+
+  private delete(e: any) {
+    console.log('Delete clicked', e);
+  }
+
   render() {
     return (
       <Host>
+        <ion-list>
         {state.items.map(item =>
           <div class="item">
-            <div
-              class="title"
-              onClick={() => {
-                if (state.expandedItemId === item.id) {
-                  state.expandedItemId = -1;
-                } else {
-                  state.expandedItemId = item.id;
-                }
-              }}
-            >
-              <dnn-chevron
-                expanded={state.expandedItemId === item.id}
-              />
-              {item.name}
-            </div>
-            <dnn-collapsible expanded={state.expandedItemId === item.id}>
-              {state.expandedItemId === item.id &&
-                <my-item-details item={item} />
-              }
-            </dnn-collapsible>
+            <ion-item-sliding>
+              <ion-item>
+                <ion-label>{item.name}</ion-label>
+                <ion-checkbox slot="start" checked={false}></ion-checkbox>
+              </ion-item>
+              <ion-item-options>
+                <ion-item-option onClick={e => this.edit(e)}>
+                  <ion-icon slot="start" name="create-outline"></ion-icon>
+                  Edit
+                </ion-item-option>
+                <ion-item-option color="danger" onClick={e => this.delete(e)}>
+                  <ion-icon slot="start" name="close-circle-outline"></ion-icon>
+                  Delete
+                </ion-item-option>
+              </ion-item-options>
+            </ion-item-sliding>
+            {/* <my-item-details item={item} /> */}
           </div>
         )}
+        </ion-list>
         {this.loading &&
           <div class="loading"></div>
         }

@@ -1,0 +1,22 @@
+@import '../../node_modules/@ionic/core/css/core.css';
+
+@import '../../node_modules/@ionic/core/css/normalize.css';
+@import '../../node_modules/@ionic/core/css/structure.css';
+@import '../../node_modules/@ionic/core/css/typography.css';
+
+@import '../../node_modules/@ionic/core/css/padding.css';
+@import '../../node_modules/@ionic/core/css/float-elements.css';
+@import '../../node_modules/@ionic/core/css/text-alignment.css';
+@import '../../node_modules/@ionic/core/css/text-transformation.css';
+@import '../../node_modules/@ionic/core/css/flex-utils.css';
+
+@import "theme/variables";
+@import "theme/fonts";
+@import "theme/content";
+@import "theme/main";
+@import "theme/menu";
+@import "theme/toolbar";
+@import "theme/list";
+@import "theme/segment";
+@import "theme/alert";
+@import "theme/shadow";
