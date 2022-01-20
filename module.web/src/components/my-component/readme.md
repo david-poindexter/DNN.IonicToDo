@@ -64,12 +64,14 @@ graph TD;
   my-component --> dnn-searchbox
   my-component --> my-create
   my-component --> my-items-list
-  my-create --> dnn-button
-  my-create --> dnn-modal
-  my-create --> my-edit
-  dnn-button --> dnn-modal
-  dnn-button --> dnn-button
-  my-edit --> dnn-button
+  my-create --> ion-fab
+  my-create --> ion-fab-button
+  my-create --> ion-icon
+  my-create --> ion-alert
+  ion-fab-button --> ion-icon
+  ion-fab-button --> ion-ripple-effect
+  ion-alert --> ion-ripple-effect
+  ion-alert --> ion-backdrop
   my-items-list --> dnn-chevron
   my-items-list --> dnn-collapsible
   my-items-list --> my-item-details
@@ -77,6 +79,9 @@ graph TD;
   my-item-details --> dnn-button
   my-item-details --> dnn-modal
   my-item-details --> my-edit
+  dnn-button --> dnn-modal
+  dnn-button --> dnn-button
+  my-edit --> dnn-button
   style my-component fill:#f9f,stroke:#333,stroke-width:4px
 ```
 

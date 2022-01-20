@@ -51,12 +51,17 @@ export class MyComponent {
 
   render() {
     return <Host>
-      <div class="header">
-        <dnn-searchbox placeholder={this.resx.uI.searchPlaceholder || "Search"} onQueryChanged={e => state.searchQuery = e.detail} />
+      <ion-header>
+        <ion-toolbar>
+          <ion-title size="large">DNN Ionic ToDo</ion-title>
+        </ion-toolbar>
+        <ion-toolbar>
+          <ion-searchbar placeholder={this.resx.uI.searchPlaceholder || "Search"} onIonChange={e => state.searchQuery = e.detail.value} ></ion-searchbar>
+        </ion-toolbar>
         {state.userCanEdit &&
           <my-create />
         }
-      </div>
+      </ion-header>
       <my-items-list />
     </Host>;
   }

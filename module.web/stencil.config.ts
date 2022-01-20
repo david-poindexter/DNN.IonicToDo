@@ -22,5 +22,8 @@ export const config: Config = {
   },
   plugins: [
     sass()
-  ]
+  ],
+  sourceMap: true,
+  globalScript: 'src/global/app.ts',
+  globalStyle: 'src/global/app.scss'
 };
