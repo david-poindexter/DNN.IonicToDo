@@ -2463,7 +2463,7 @@
       "output": {
         ".html": {
           "relative_path": "components/my-component.html",
-          "hash": "2SQYMmBHhxmwAGHKDx9L2A=="
+          "hash": "29j2CsAocknhGEintHOBcg=="
         }
       },
       "is_incremental": false,
@@ -2478,7 +2478,7 @@
       "output": {
         ".html": {
           "relative_path": "components/my-create.html",
-          "hash": "Mc2hRk69Jl/RptbLVZVLHA=="
+          "hash": "/q0MOTtASnxWDXhphyGlXQ=="
         }
       },
       "is_incremental": false,

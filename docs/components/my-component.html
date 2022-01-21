@@ -134,8 +134,8 @@
 <li>ion-toolbar</li>
 <li>ion-title</li>
 <li>ion-searchbar</li>
-<li><a href="../my-create">my-create</a></li>
 <li><a href="../my-items-list">my-items-list</a></li>
+<li><a href="../my-create">my-create</a></li>
 </ul>
 <h3 id="graph">Graph</h3>
 <pre><code class="lang-mermaid">graph TD;
@@ -143,14 +143,9 @@
   my-component --&gt; ion-toolbar
   my-component --&gt; ion-title
   my-component --&gt; ion-searchbar
-  my-component --&gt; my-create
   my-component --&gt; my-items-list
+  my-component --&gt; my-create
   ion-searchbar --&gt; ion-icon
-  my-create --&gt; ion-fab
-  my-create --&gt; ion-fab-button
-  my-create --&gt; ion-icon
-  ion-fab-button --&gt; ion-icon
-  ion-fab-button --&gt; ion-ripple-effect
   my-items-list --&gt; ion-list
   my-items-list --&gt; ion-item-sliding
   my-items-list --&gt; ion-item
@@ -165,6 +160,11 @@
   ion-item-option --&gt; ion-ripple-effect
   dnn-button --&gt; dnn-modal
   dnn-button --&gt; dnn-button
+  my-create --&gt; ion-fab
+  my-create --&gt; ion-fab-button
+  my-create --&gt; ion-icon
+  ion-fab-button --&gt; ion-icon
+  ion-fab-button --&gt; ion-ripple-effect
   style my-component fill:#f9f,stroke:#333,stroke-width:4px
 </code></pre>
 <hr>
