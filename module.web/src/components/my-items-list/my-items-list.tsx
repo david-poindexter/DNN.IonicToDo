@@ -134,7 +134,7 @@ export class MyItemsList {
                   <ion-icon slot="start" name="create-outline"></ion-icon>
                   Edit
                 </ion-item-option>
-                <ion-item-option color="danger" onClick={e => this.delete(e)}>
+                <ion-item-option onClick={e => this.delete(e)}>
                   <ion-icon slot="start" name="close-circle-outline"></ion-icon>
                   Delete
                 </ion-item-option>

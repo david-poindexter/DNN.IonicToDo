@@ -58,8 +58,8 @@ Simply load the javascript library, provide it a module id and you are good to g
 - ion-toolbar
 - ion-title
 - ion-searchbar
-- [my-create](../my-create)
 - [my-items-list](../my-items-list)
+- [my-create](../my-create)
 
 ### Graph
 ```mermaid
@@ -68,14 +68,9 @@ graph TD;
   my-component --> ion-toolbar
   my-component --> ion-title
   my-component --> ion-searchbar
-  my-component --> my-create
   my-component --> my-items-list
+  my-component --> my-create
   ion-searchbar --> ion-icon
-  my-create --> ion-fab
-  my-create --> ion-fab-button
-  my-create --> ion-icon
-  ion-fab-button --> ion-icon
-  ion-fab-button --> ion-ripple-effect
   my-items-list --> ion-list
   my-items-list --> ion-item-sliding
   my-items-list --> ion-item
@@ -90,6 +85,11 @@ graph TD;
   ion-item-option --> ion-ripple-effect
   dnn-button --> dnn-modal
   dnn-button --> dnn-button
+  my-create --> ion-fab
+  my-create --> ion-fab-button
+  my-create --> ion-icon
+  ion-fab-button --> ion-icon
+  ion-fab-button --> ion-ripple-effect
   style my-component fill:#f9f,stroke:#333,stroke-width:4px
 ```
 

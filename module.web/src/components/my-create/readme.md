@@ -5,6 +5,13 @@
 <!-- Auto Generated Below -->
 
 
+## Events
+
+| Event         | Description                        | Type               |
+| ------------- | ---------------------------------- | ------------------ |
+| `itemCreated` | Fires up when an item got created. | `CustomEvent<any>` |
+
+
 ## Dependencies
 
 ### Used by

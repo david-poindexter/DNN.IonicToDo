@@ -53,16 +53,16 @@ export class MyComponent {
     return <Host>
       <ion-header>
         <ion-toolbar>
-          <ion-title size="large">DNN Ionic ToDo</ion-title>
+          <ion-title>ToDos</ion-title>
         </ion-toolbar>
         <ion-toolbar>
           <ion-searchbar placeholder={this.resx.uI.searchPlaceholder || "Search"} onIonChange={e => state.searchQuery = e.detail.value} ></ion-searchbar>
         </ion-toolbar>
+      </ion-header>
+      <my-items-list />
         {state.userCanEdit &&
           <my-create />
         }
-      </ion-header>
-      <my-items-list />
     </Host>;
   }
 }

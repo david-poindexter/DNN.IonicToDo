@@ -93,6 +93,10 @@ declare namespace LocalJSX {
         "moduleId": number;
     }
     interface MyCreate {
+        /**
+          * Fires up when an item got created.
+         */
+        "onItemCreated"?: (event: CustomEvent<any>) => void;
     }
     interface MyEdit {
         /**
